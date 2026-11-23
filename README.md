@@ -1,18 +1,18 @@
 # Moustafa Zaalouk
 
-### AI Engineer · Machine Learning · Computer Vision · NLP
+### Junior ML Engineer · Python · Reproducible evaluation
 
 Based in Alexandria, Egypt. B.Sc. in Computer Science (Artificial Intelligence), Pharos University in Alexandria, 2025. Currently studying for a Master's in Data Science at Alexandria University.
 
-![Areas of work: Python, Machine Learning, Computer Vision, NLP and Embedded Systems](tech-stack.png)
+## English summary
 
-These labels describe technologies and interests, not certifications or GitHub achievements.
+I build and study reproducible machine learning experiments in Python, with clear baselines, evaluation protocols and limitations. This portfolio currently contains small educational labs and a freight-rate assessment project. It is not a record of production deployments or client work. AI assistance is disclosed in each project.
 
-## What I work on
+## Focus
 
-- Machine learning experiments with clear baselines and reproducible evaluation.
-- Computer vision, NLP and embedded AI.
-- Teaching programming and AI through Descode Academy.
+- Applied machine learning and data preparation.
+- Baselines, error analysis and reproducible evaluation.
+- Building stronger real-data projects while keeping educational examples clearly labeled.
 
 ## Educational project collection
 
@@ -37,4 +37,4 @@ A measured number needs its dataset, split and limitations beside it. A local te
 
 ## Connect
 
-You can find my work and contact options on this GitHub profile. I am interested in AI/ML engineering, applied research and teaching.
+Email: [mmkz912002@gmail.com](mailto:mmkz912002@gmail.com). Interested in junior ML engineering and applied machine learning opportunities.
