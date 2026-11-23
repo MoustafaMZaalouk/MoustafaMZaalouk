@@ -6,13 +6,24 @@ Based in Alexandria, Egypt. B.Sc. in Computer Science (Artificial Intelligence),
 
 ## English summary
 
-I build and study reproducible machine learning experiments in Python, with clear baselines, evaluation protocols and limitations. This portfolio currently contains small educational labs and a freight-rate assessment project. It is not a record of production deployments or client work. AI assistance is disclosed in each project.
+I build and study reproducible machine learning experiments in Python, with clear baselines, evaluation protocols and limitations. This portfolio includes real-data projects in NLP, computer vision, forecasting and probability calibration, alongside small educational labs and a freight-rate assessment project. It is not a record of production deployments or client work. AI assistance is disclosed in each project.
 
 ## Focus
 
 - Applied machine learning and data preparation.
 - Baselines, error analysis and reproducible evaluation.
-- Building stronger real-data projects while keeping educational examples clearly labeled.
+- Real-data experiments with clear attribution, honest results and reproducible checks.
+
+## Featured real-data projects
+
+These AI-assisted projects use public datasets and report measured results, limitations and reproducible checks. They are research and engineering demonstrations, not production deployments.
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Bike Demand Backtesting](https://github.com/MoustafaMZaalouk/bike-demand-backtesting) | Time-aware demand forecasting, baselines and prediction intervals |
+| [Purchase Intent Calibration](https://github.com/MoustafaMZaalouk/purchase-intent-calibration) | Temporal session-level evaluation, calibration and feature-availability limits |
+| [Banking Intent Router](https://github.com/MoustafaMZaalouk/banking-intent-router) | TF-IDF vs frozen MiniLM, quantized ONNX, FastAPI and confidence-based abstention |
+| [Bean Leaf Transfer Learning](https://github.com/MoustafaMZaalouk/bean-leaf-transfer-learning) | Frozen ResNet vs limited partial fine-tuning, uncertainty, error analysis and Grad-CAM |
 
 ## Educational project collection
 
