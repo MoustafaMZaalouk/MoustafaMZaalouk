@@ -1,5 +1,9 @@
 # Moustafa Zaalouk
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square)
+
+Tools used in the projects below, not certification or proficiency ratings.
+
 ### Junior ML Engineer · Python · Reproducible evaluation
 
 Based in Alexandria, Egypt. B.Sc. in Computer Science (Artificial Intelligence), Pharos University in Alexandria, 2025. Currently studying for a Master's in Data Science at Alexandria University.
