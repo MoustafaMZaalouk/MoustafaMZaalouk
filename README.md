@@ -24,6 +24,10 @@ These AI-assisted projects use public datasets and report measured results, limi
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Drift Monitor + Retraining Pipeline](https://github.com/MoustafaMZaalouk/drift-monitor-retraining-pipeline) | Simulated stream replay, planted-drift alerts and delayed-label retraining, including regressions |
+| [BANKING77 Fine-Tune Ladder](https://github.com/MoustafaMZaalouk/banking77-finetune-ladder) | TF-IDF, frozen MiniLM, SetFit and full fine-tuning with shared evaluation and CPU cost reporting |
+| [MovieLens Implicit Recommender](https://github.com/MoustafaMZaalouk/ml1m-implicit-recsys) | Full-catalog ranking, per-user temporal splits, three-seed comparisons and popularity bias |
+| [Oxford Pet U-Net Segmentation](https://github.com/MoustafaMZaalouk/oxford-pet-unet-segmentation) | CPU-trained U-Net vs frozen-feature probe, bootstrap intervals and resumable training |
 | [Bike Demand Backtesting](https://github.com/MoustafaMZaalouk/bike-demand-backtesting) | Time-aware demand forecasting, baselines and prediction intervals |
 | [Purchase Intent Calibration](https://github.com/MoustafaMZaalouk/purchase-intent-calibration) | Temporal session-level evaluation, calibration and feature-availability limits |
 | [Banking Intent Router](https://github.com/MoustafaMZaalouk/banking-intent-router) | TF-IDF vs frozen MiniLM, quantized ONNX, FastAPI and confidence-based abstention |
